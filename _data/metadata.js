@@ -2,9 +2,9 @@ module.exports = {
 	title: "Brads Blog",
 	url: "https://example.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "a blog about things",
 	author: {
-		name: "Your Name Here",
+		name: "Bradley Milner",
 		email: "youremailaddress@example.com",
 		url: "https://example.com/about-me/"
 	}
