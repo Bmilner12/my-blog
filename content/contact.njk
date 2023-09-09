@@ -10,19 +10,31 @@ eleventyNavigation:
         <form name="contact" class="col-12 mx-auto" netlify>
             <h2 class="text-center">Feel free to contact me</h2>
             <div class="mb-3">
-                <label name="email" for="exampleFormControlInput1" class="form-label">Email address</label>
-                <input name="email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"></div>
-            <div class="mb-3">
-                <label name="comments" for="exampleFormControlTextarea1" class="form-label">Leave your comment hear</label>
-                <textarea
-                    name="comments"
-                    class="form-control"
-                    id="exampleFormControlTextarea1"
-                    rows="3"
-                    maxcharlength="130"
-                    placeholder="max characters 130"></textarea>
-                <button type="submit" class="btn btn-primary">Submit</button>
-            </div>
+                <div class="mb-3">
+                    <label name="First Name" for="exampleFormControlInput1" class="form-label">First Name</label>
+                    <input name="First Name" type="text" class="form-control" id="exampleFormControlInput1" placeholder="First Name"></div>
+                <div class="mb-3">
+                    <div class="mb-3">
+                        <label name="Last Name" for="exampleFormControlInput1" class="form-label">Last Name</label>
+                        <input name="Last Name" type="text" class="form-control" id="exampleFormControlInput1" placeholder="Last Name"></div>
+                    <div class="mb-3">
+                        <label name="email" for="exampleFormControlInput1" class="form-label">Email address</label>
+                        <input name="email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"></div>
+                    <div class="mb-3">
+                        <label name="comments" for="exampleFormControlTextarea1" class="form-label">Leave your comment hear</label>
+                        <textarea
+                            name="comments"
+                            class="form-control"
+                            id="exampleFormControlTextarea1"
+                            rows="3"
+                            maxcharlength="130"
+                            placeholder="max characters 130"></textarea>
+                        <div class="mb-3 form-check">
+                            <input name="checkbox" type="checkbox" class="form-check-input" id="exampleCheck1">
+                            <label class="form-check-label" for="exampleCheck1">Terms and Conditions</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+            </form>
         </div>
-    </form>
-</div>
