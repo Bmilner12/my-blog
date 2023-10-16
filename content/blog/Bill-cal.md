@@ -13,7 +13,7 @@ Greetings, fellow dining aficionados! Have you ever found yourself in a restaura
 
 But before we delve into the juicy details, let's talk tech. I've put together this slick tool using HTML, CSS, JavaScript, and a dash of Bootstrap for extra pizzazz. It's a user-friendly application that marries function with flair. Here's what you can expect:
 
-- **Bill Amount Input**: Punch in your total bill amount in dollars.
+- **Bill Amount Input**: Punch in your total bill amount in pounds.
 - **Tip Percentage Slider**: Slide your way to the perfect tip amount. From generous to frugal, we've got you covered!
 - **Tip Amount Display**: Watch your calculated tip amount materialize right before your eyes.
 - **Total Amount**: The grand total, including tip, is just a click away.
