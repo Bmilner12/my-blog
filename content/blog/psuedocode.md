@@ -1,8 +1,9 @@
 ---
-title: psuedocode
-description: this is my first attempt at psuedocode
-date: 2023/10/16
+title: My First Blog Post
+description: this is my first post on 11ty
+date: 2023-10-16
 ---
+
 here is my psuedocode for the task 
 
 // Create an array of objects to store book information
