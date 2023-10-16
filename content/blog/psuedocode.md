@@ -1,6 +1,6 @@
 ---
-title: My First Blog Post
-description: this is my first post on 11ty
+title: psuedocode
+description: this is my first post on psuedocode
 date: 2023-10-16
 ---
 
@@ -8,7 +8,7 @@ here is my psuedocode for the task
 
 // Create an array of objects to store book information
 // Each object should have properties: title (string), author (string), and alreadyRead (boolean)
-//books = [
+//books = 
  //   { title: "The Hobbit", author: "J.R.R. Tolkien", alreadyRead: true },
  //   { title: "The Lord of the Rings", author: "J.R.R. Tolkien", alreadyRead: false }
 
@@ -53,7 +53,3 @@ here is my psuedocode for the task
     // Return the modified string
     return modifiedString
 }
-
-// Example usage:
-// fixStart('babble') should return 'ba**le'
-// fixStart('turtle') should return 'tur*le*/
